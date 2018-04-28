@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="header_bgcolor">#FFffffff</color>
+
+    <dimen name="header_height">45dp</dimen>
+    <dimen name="back_txt_size">14sp</dimen>
+    <dimen name="right_txt_size">14sp</dimen>
+    <dimen name="title_txt_size">16sp</dimen>
+
+    <color name="back_txt_color">#ff515151</color>
+    <color name="title_txt_color">#ff212324</color>
+    <color name="right_txt_color">#ff515151</color>
+    
+    <color name="header_divider_color">#FF888888</color>
+
+</resources>

@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/com/support/httputil/imageloader/ImageLoader.java=UTF-8
+encoding//src/com/support/httputil/imageloader/ImageLoaderConfig.java=UTF-8
+encoding//src/com/support/httputil/imageloader/ImageLoadingListener.java=UTF-8
+encoding//src/com/support/httputil/imageloader/ImageTargetSize.java=UTF-8
+encoding//src/com/support/util/ImageUtil.java=gbk
+encoding//src/com/support/util/ImageUtils.java=GBK
+encoding//src/com/support/widget/ColorProgressBar.java=GBK
+encoding//src/com/support/widget/CustomDialog.java=UTF-8
+encoding//src/com/support/widget/MyListView.java=UTF-8
+encoding//src/com/support/widget/SwitchButton.java=GBK
+encoding//src/com/support/widget/TabView.java=UTF-8
+encoding/<project>=UTF-8

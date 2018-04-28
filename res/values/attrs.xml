@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TabView">
+        <attr name="titles" format="reference" />
+        <attr name="foreColor" format="color" />
+        <attr name="bgColor" format="color" />
+        <attr name="pressColor" format="color" />
+        <attr name="borderColor" />
+        <attr name="round" />
+    </declare-styleable>
+    <declare-styleable name="ColorProgressBar">
+        <attr name="progress" format="integer" />
+        <attr name="color" format="color" />
+        <attr name="borderColor" />
+        <attr name="round" />
+        <attr name="text" format="string" />
+    </declare-styleable>
+
+    <attr name="borderColor" format="color" />
+    <attr name="round" format="dimension" />
+
+	<declare-styleable name="FlowLayout">
+		<attr name="android:gravity" />
+	</declare-styleable>
+	<declare-styleable name="FlowLayout_Layout">
+		<attr name="android:layout_gravity" />
+	</declare-styleable>
+    <declare-styleable name="SwipyRefreshLayout">
+        <attr name="direction">
+            <enum name="top" value="0" />
+            <enum name="bottom" value="1" />
+            <enum name="both" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>

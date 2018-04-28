@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 常用颜色 -->
+    <color name="black">#ff000000</color>
+    <color name="black_333">#ff333333</color>
+    <color name="gray_888">#ff888888</color>
+    <color name="white">#ffffffff</color>
+    <color name="white_ccc">#ffcccccc</color>
+    <color name="red">#ffff0000</color>
+    <color name="green">#ff00ff00</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="yellow">#ffffff00</color>
+    <color name="default_bg_light">#fff8f8f8</color>
+    <color name="default_bg_dark">#ffefefef</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_gray">#F3F3F3</color>
+
+    <!-- 宝蓝色 -->
+    <color name="baolan">#002FA7</color>
+    <!-- 雪白色 -->
+    <color name="snow_white">#FFFAFA</color>
+    <!-- 银色 -->
+    <color name="silver">#e6e8fa</color>
+
+    <!-- 以下是文本的颜色 -->
+    <color name="txt_000">#ff000000</color>
+    <color name="txt_333">#ff333333</color>
+    <color name="txt_666">#ff666666</color>
+    <color name="txt_888">#ff888888</color>
+    <color name="txt_ccc">#ffcccccc</color>
+    <color name="txt_fff">#ffffffff</color>
+    <!-- 黑色 -->
+    <color name="line_gray">#C8C8C8</color>
+    <color name="btntextcolor">#ff1E90FF</color>
+    <!-- dialog中按钮字体颜色 -->
+
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="header_title_gray">#B8B8B8</color>
+
+    <!-- 轮播图文字背景颜色 -->
+    <color name="carousel_title_back">#88000000</color>
+    <!-- 半透明黑色 -->
+    <color name="black_bantouming">#50000000</color>
+
+    <!-- ExceptionView -->
+    <color name="cus_text">#e2e2e2</color>
+
+    <!-- MyProgressBar -->
+    <color name="form_prompt_red">#EE7175</color>
+
+</resources>
